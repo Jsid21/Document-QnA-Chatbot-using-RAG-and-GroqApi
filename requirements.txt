@@ -1,0 +1,12 @@
+faiss-cpu
+groq
+langchain-groq
+PyPDF2
+langchain_google_genai
+langchain
+streamlit
+langchain_community
+python-dotenv
+pypdf
+transformers==4.37.2
+torch==2.1.2
